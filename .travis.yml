@@ -22,4 +22,4 @@ after_success:
   - docker push renators/multi-client
   - docker push renators/multi-nginx
   - docker push renators/multi-server
-  - docker push renators/multi-worker  
+  - docker push renators/multi-worker
